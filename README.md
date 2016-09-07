@@ -7,13 +7,13 @@ This is a simple repository consisting of different examples. These examples are
 This repository is a tutorial for learning Java from the very beginning to the advanced level Java. At the very beginning, we have divided the Java learning process
 into five different projects.
 
-1. JavaBasic - here we will include very basic Java programs and introduce very essential JDK classes which will help the beginners to get into the Java world.
+1. [JavaBasic](https://github.com/azizurice/JavaTutorials/tree/master/JavaBasic) - here we will include very basic Java programs and introduce very essential JDK classes which will help the beginners to get into the Java world.
 
-2. JavaIntermediate - here we will include features that will require the JavaBasic skills.
+2. [JavaIntermediate](https://github.com/azizurice/JavaTutorials/tree/master/JavaIntermediate) - here we will include features that will require the JavaBasic skills.
 
-3. JavaAlgorithms -- here we will discuss different algorithms implemented in Java.
+3. [JavaAlgorithms](https://github.com/azizurice/JavaTutorials/tree/master/JavaAlgorithms) -- here we will discuss different algorithms implemented in Java.
 
-4. JavaAdvanced  -- here we will add the number of different advanced feature, a Java professional needs/uses.
+4. [JavaAdvanced](https://github.com/azizurice/JavaTutorials/tree/master/JavaAdvanced)  -- here we will add the number of different advanced feature, a Java professional needs/uses.
 
 5. [JavaDesignPatterns](JavaTutorials/JavaAdvanced/) --here we will discuss different design patterns in Java, software engineers use in the industry.  
 
