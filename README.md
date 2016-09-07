@@ -15,7 +15,7 @@ into five different projects.
 
 4. JavaAdvanced  -- here we will add the number of different advanced feature, a Java professional needs/uses.
 
-5. JavaDesignPatterns --here we will discuss different design patterns in Java, software engineers use in the industry.  
+5. [JavaDesignPatterns](JavaTutorials/JavaAdvanced/) --here we will discuss different design patterns in Java, software engineers use in the industry.  
 
 
 Click here to See [Success Message](/docs/images/android-result.png) and [Error Message](/docs/images/android-error.png)
