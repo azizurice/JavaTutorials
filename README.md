@@ -18,12 +18,6 @@ into five different projects.
 5. [JavaDesignPatterns](https://github.com/azizurice/JavaTutorials/tree/master/JavaAdvanced) --here we will discuss different design patterns in Java, software engineers use in the industry.  
 
 
-Click here to See [Success Message](/docs/images/android-result.png) and [Error Message](/docs/images/android-error.png)
-
-
-In this project, I didn't use any 3rd part library for consuming restful web service like RETROFIT, nor did I use any build tools like Maven or Gradle here. There are many 3rd party libraries which make our life easy with little bit effort at the beginning.
-But raw solution always good for understanding.
-
 ## How will you run this project in eclipse IDE:
 
 1. Clone the project:
