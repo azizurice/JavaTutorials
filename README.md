@@ -15,7 +15,7 @@ into five different projects.
 
 4. [JavaAdvanced](https://github.com/azizurice/JavaTutorials/tree/master/JavaAdvanced)  -- here we will add the number of different advanced feature, a Java professional needs/uses.
 
-5. [JavaDesignPatterns](https://github.com/azizurice/JavaTutorials/tree/master/JavaAdvanced) --here we will discuss different design patterns in Java, software engineers use in the industry.  
+5. [JavaDesignPatterns](https://github.com/azizurice/JavaTutorials/tree/master/JavaDesignPatterns) --here we will discuss different design patterns in Java, software engineers use in the industry.  
 
 
 ## How will you run this project in eclipse IDE:
