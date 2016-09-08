@@ -2,7 +2,7 @@ package com.letscodes.start;
 /**
  *  @author Azizur
  *  
- *   Q-1: Write an HelloWorldApp that will simply display a few lines of messages in standard out.
+ *   Q-1: Write an HelloWorldApp that will simply display a few lines of messages in standard output.
  */
 public class HelloWorldApp {
 
