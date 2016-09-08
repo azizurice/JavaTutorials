@@ -1,4 +1,4 @@
-package com.letscodes.dp.singleton;
+package com.letscodes.dp.creational.singleton;
 /*There are many ways to make a Singleton Class as thread safe. The following one is one of the best ones*/
 public class SingletonThreadSafe {
 	

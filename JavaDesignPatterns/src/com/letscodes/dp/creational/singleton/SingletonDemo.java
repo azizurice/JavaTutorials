@@ -1,4 +1,4 @@
-package com.letscodes.dp.singleton;
+package com.letscodes.dp.creational.singleton;
 /**
  * 
  * @author Azizur
@@ -7,7 +7,7 @@ package com.letscodes.dp.singleton;
 public class SingletonDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 	}
 

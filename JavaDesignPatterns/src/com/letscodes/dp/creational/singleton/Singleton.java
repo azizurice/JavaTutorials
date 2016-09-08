@@ -1,4 +1,4 @@
-package com.letscodes.dp.singleton;
+package com.letscodes.dp.creational.singleton;
 /**
  * 
  * @author Azizur
