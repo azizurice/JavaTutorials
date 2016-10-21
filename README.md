@@ -13,6 +13,10 @@ into five different projects.
 
 3. [JavaAlgorithms](https://github.com/azizurice/JavaTutorials/tree/master/JavaAlgorithms) -- here we will discuss different algorithms implemented in Java.
 
+
+4. [JavaAlgorithms](https://github.com/azizurice/JavaTutorials/tree/master/JavaDataStructure) -- here we will implement different abstract data types from the scratch and do unit test of their different operations/methods.
+
+
 4. [JavaAdvanced](https://github.com/azizurice/JavaTutorials/tree/master/JavaAdvanced)  -- here we will add the number of different advanced feature, a Java professional needs/uses.
 
 5. [JavaDesignPatterns](https://github.com/azizurice/JavaTutorials/tree/master/JavaDesignPatterns) --here we will discuss different design patterns in Java, software engineers use in the industry.  
