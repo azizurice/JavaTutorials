@@ -1,7 +1,7 @@
 # Data Structure in Java
 
 ## Problem-1
-: Stack is an abstract data type that follows LIFO (Last-In-First-Out) principle. Implement a Stack data type in Java that can store any data of user choice and throws exception if a user tres to retrieve data when it is empty ( no element at all) or if a user tries to push data when it has already  reached its maximum capacity.
+: Stack is an abstract data type that follows LIFO (Last-In-First-Out) principle. Implement a Stack data type in Java that can store any data of user choice and throws exception if a user tres to retrieve data when it is empty ( no element at all) or if a user tries to push data when it has already  reached at its maximum capacity.
 
 ### Solution
 
